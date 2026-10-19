@@ -348,3 +348,6 @@ show running-config | section ospf
 # ✅ Result
 
 Successfully configured Multi-Area OSPF using Area 0, Area 1, and Area 2. OSPF neighbor relationships were established through the Area Border Router (R0), and all LANs exchanged routing information dynamically, enabling communication between the `192.168.10.0/24`, `192.168.20.0/24`, and `192.168.30.0/24` networks. 🚀
+## Network Topology
+
+![Enterprise Network Topology](topology-screenshot.png)
